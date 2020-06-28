@@ -6,6 +6,7 @@ Programa possui um menu de funcionamento com as opções de visualizar pessoas c
 
 O cadastro esta em um arquivo de TXT e recebe sempre as informações que são adicionadas independente do programa ter sido reinicializado
 Funciona como um mini banco de dados, porém somente utilizando linguagem Python.
+
 ![menu](https://user-images.githubusercontent.com/66555468/85956026-f6f91100-b958-11ea-8753-0626b596980b.png)
 
 Todas as cores foram feitas através de um modulo criado somente para as cores e facilitar a forma de configurá-las deixando o codigo principal mais limpo.
